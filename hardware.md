@@ -1,6 +1,5 @@
 # Clearline Hardware
 
-## Clearline Hardware
 **Specially Designed Retail Hardware**
 If your strategy is set and you just need POS marketing hardware screens, ClearLine has you covered. We offer a wide range of in-store digital marketing and POS marketing tools for customer interaction and data capture. All of our devices are reliable, ready to use, and specifically designed with in-store businesses in mind.
 
@@ -41,4 +40,6 @@ ClearLine’s Digital Kiosk feature enables you to create an interactive kiosk i
 ClearLine’s Advertising Display feature lets you create and display digital ads on screens within your store. Showcase your latest promotions, highlight new products, or partner with local businesses for co-marketing opportunities. This feature helps capture customer attention and drive sales directly from the point of sale.
 
 **POS Systems**
-ClearLine has revolutionized in-store marketing and Point of Sale (POS) systems by offering software that enhances the experience for both businesses and customers. With ClearLine’s innovative software, businesses can effortlessly engage customers, increase spending, generate positive reviews, and promote brand loyalty—all at the point of sale. A unique feature of ClearLine’s software is its seamless integration with existing POS providers and systems. This integration provides access to automated and manual engagement flows and Advertising Display options, allowing users to collect inbound data and display promotions and special offers on the Customer Facing screen.
+ClearLine has revolutionized in-store marketing and Point of Sale (POS) systems by offering software that enhances the experience for both businesses and customers. With ClearLine’s innovative software, businesses can effortlessly engage customers, increase spending, generate positive reviews, and promote brand loyalty—all at the point of sale.  
+
+ A unique feature of ClearLine’s software is its seamless integration with existing POS providers and systems. This integration provides access to automated and manual engagement flows and Advertising Display options, allowing users to collect inbound data and display promotions and special offers on the Customer Facing screen.
