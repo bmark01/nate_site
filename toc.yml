@@ -1,2 +1,14 @@
-- name: Docs
-  href: brucemark/nate_site/
+# This is an automatically generated file
+items:
+- name: Nate site
+  href: index.md
+- name: About Clearline  extracts
+  href: about.md
+- name: Clearline Hardware
+  href: hardware.md
+- name: Clearline Solutions
+  href: solutions.md
+- name: FAQs
+  href: faqs.md
+- name: Why Clearline/Value Proposition  extracts
+  href: why.md

@@ -1,11 +1,7 @@
----
-_layout: landing
----
+# Nate site
 
-# This is the **HOMEPAGE**.
-
-Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to write markdown files.
-
-## Quick Start Notes:
-
-1. Add images to the *images* folder if the file is referencing an image.
+* [About Clearline  extracts](./about.md)
+* [Clearline Hardware](./hardware.md)
+* [Clearline Solutions](./solutions.md)
+* [FAQs](./faqs.md)
+* [Why Clearline/Value Proposition  extracts](./why.md)
