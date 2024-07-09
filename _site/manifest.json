@@ -22,33 +22,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "brucemark/nate_site/getting-started.md",
+      "source_relative_path": "edits.md",
       "output": {
         ".html": {
-          "relative_path": "brucemark/nate_site/getting-started.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "brucemark/nate_site/introduction.md",
-      "output": {
-        ".html": {
-          "relative_path": "brucemark/nate_site/introduction.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "brucemark/nate_site/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "brucemark/nate_site/toc.html"
-        },
-        ".json": {
-          "relative_path": "brucemark/nate_site/toc.json"
+          "relative_path": "edits.html"
         }
       },
       "version": ""

@@ -1,7 +1,7 @@
 # Why Clearline/Value Proposition- extracts
 
 
-#### ClearLine Value Proposition:
+### ClearLine Value Proposition:
 * ClearLine offers comprehensive and efficient digital in-store and POS marketing solutions tailored for businesses of all sizes, from small businesses to multi-location enterprises and franchises. Key benefits include:
   * **Enhanced Marketing Efforts:** ClearLine’s user-friendly platform allows for seamless creation and distribution of marketing materials, personalized promotions, and digital engagement tools.
   * **Increased Sales and Customer Loyalty:** By integrating digital coupons, loyalty programs, and targeted promotions, ClearLine helps businesses boost sales and retain customers.
