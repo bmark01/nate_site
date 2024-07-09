@@ -1,0 +1,125 @@
+{
+  "source_base_path": "/Users/brucemark/Nate_site",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "about.md",
+      "output": {
+        ".html": {
+          "relative_path": "about.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "brucemark/nate_site/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "brucemark/nate_site/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "brucemark/nate_site/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "brucemark/nate_site/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "brucemark/nate_site/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "brucemark/nate_site/toc.html"
+        },
+        ".json": {
+          "relative_path": "brucemark/nate_site/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "faqs.md",
+      "output": {
+        ".html": {
+          "relative_path": "faqs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "hardware.md",
+      "output": {
+        ".html": {
+          "relative_path": "hardware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "solutions.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "why.md",
+      "output": {
+        ".html": {
+          "relative_path": "why.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
