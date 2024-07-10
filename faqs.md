@@ -17,7 +17,7 @@ No long-term contracts are required, and you can cancel at any time. If you deci
 **What are the biggest differences between the price packages?**  
 
 Our plans differ mainly in two aspects:
-**Note**
+[!TIP]  
  _what is the 2nd way they differ?- # of apps or # of tools?_:
 - **Number of User Interactions:** Choose a plan based on the estimated number of daily customer interactions. Plans offer 500, 1,000, 2,000, 3,000, 5,000, or 10,000 user interactions.
 
