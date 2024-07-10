@@ -2,15 +2,15 @@
 
 **FAQs**
 
-**What is special about ClearLine’s Marketing Platform?**\  
+**What is special about ClearLine’s Marketing Platform?**  
 
 ClearLine’s Marketing Center simplifies the process of connecting brands, businesses, and customers with personalized messages at the time of purchase. It eliminates extra steps and delays, increases efficiency, and delivers instant, measurable results. Our platform provides a real-time, one-to-one digital marketing solution that complies with all current regulations.
 
-**Can I try it before I buy it?**\
+**Can I try it before I buy it?**  
 
 Yes, we offer a 14-day free trial. If you choose to continue with a paid subscription, your account will automatically convert to a paid status after the trial period ends. If you decide not to continue, simply cancel before the trial period concludes.
 
-**Do I need to sign a long-term contract, or can I cancel at any time?**\  
+**Do I need to sign a long-term contract, or can I cancel at any time?**  
 
 No long-term contracts are required, and you can cancel at any time. If you decide that ClearLine isn’t the best marketing solution for your business, you can easily cancel your account within the profile settings.
 
