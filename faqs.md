@@ -16,7 +16,7 @@ No long-term contracts are required, and you can cancel at any time. If you deci
 
 **What are the biggest differences between the price packages?**  
 
-Our plans differ mainly in two aspects:  
+Our plans differ mainly in **two** aspects: 
 > 📌 **Note:**
 >  What is the 2nd way they differ?- # of apps or # of tools?
  
