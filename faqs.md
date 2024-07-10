@@ -2,16 +2,20 @@
 
 **FAQs**
 
-**What is special about ClearLine’s Marketing Platform?**
+**What is special about ClearLine’s Marketing Platform?**\  
+
 ClearLine’s Marketing Center simplifies the process of connecting brands, businesses, and customers with personalized messages at the time of purchase. It eliminates extra steps and delays, increases efficiency, and delivers instant, measurable results. Our platform provides a real-time, one-to-one digital marketing solution that complies with all current regulations.
 
-**Can I try it before I buy it?**
+**Can I try it before I buy it?**\
+
 Yes, we offer a 14-day free trial. If you choose to continue with a paid subscription, your account will automatically convert to a paid status after the trial period ends. If you decide not to continue, simply cancel before the trial period concludes.
 
-**Do I need to sign a long-term contract, or can I cancel at any time?**
+**Do I need to sign a long-term contract, or can I cancel at any time?**\  
+
 No long-term contracts are required, and you can cancel at any time. If you decide that ClearLine isn’t the best marketing solution for your business, you can easily cancel your account within the profile settings.
 
-**What are the biggest differences between the price packages?**
+**What are the biggest differences between the price packages?**  
+
 Our plans differ mainly in two aspects:
 - **Number of User Interactions:** Choose a plan based on the estimated number of daily customer interactions. Plans offer 500, 1,000, 2,000, 3,000, 5,000, or 10,000 user interactions.
 - **Included Marketing Apps and Advanced Marketing Tools:**
@@ -19,13 +23,16 @@ Our plans differ mainly in two aspects:
   - **Standard Plan:** 7 Marketing Apps and 6 Advanced Marketing Tools
   - **Advanced Plan:** 14 Marketing Apps and 16 Advanced Marketing Tools
 
-**Are there any extra costs after subscribing?**
+**Are there any extra costs after subscribing?**  
+
 No, there are no additional costs or licensing fees for using the Elements you've downloaded.
 
-**What is Auto-Renew?**
+**What is Auto-Renew?**  
+
 Auto-Renew means your subscription automatically renews each month on the same day it started, as long as your billing information is valid and you haven't canceled. If you don't want to renew, you can cancel anytime through your account dashboard before the end of your billing period.
 
-**What is User/Customer Interaction?**
+**What is User/Customer Interaction?**  
+
 A user or customer interaction occurs when:
 - A review request is sent via SMS, email, or QR code scan.
 - A customer clicks a link to open a landing page with your review links and follows through to leave a review on Google, Yelp, or Facebook.
@@ -36,13 +43,16 @@ A user or customer interaction occurs when:
 
 You can use your allowed number of user interactions for various marketing activities such as coupons, loyalty programs, SMS, email, or any combination thereof. You have full control over how you utilize these marketing tools, and our pricing ensures no surprises.
 
-**How are User Interactions Measured?**
+**How are User Interactions Measured?**  
+
 User interactions are measured monthly and reset to zero on the same day your subscription started each month.
 
-**What is the difference between an Account and a Location?**
+**What is the difference between an Account and a Location?**  
+
 An account represents your business entity in our system and includes users and one or more locations. A location is the physical business address you operate from or promote using our marketing software. Each message sent by our platform includes your location details. One account can have multiple locations, each requiring a paid monthly plan, and all locations under one account must be on the same plan.
 
-**How to Temporarily Stop Recurring Monthly Payments**
+**How to Temporarily Stop Recurring Monthly Payments**  
+
 To temporarily stop or freeze your account:
 - Go to your profile page and click on "User Profile."
 - Click on "My Plan" and follow the steps to edit your subscription.
@@ -53,15 +63,18 @@ To temporarily stop or freeze your account:
 
 The maximum duration for a freeze period is 3 months. To reactivate your payment subscription, log in with your account credentials and select "Upgrade Now" on the dashboard. Our platform will guide you through reactivating your payment plan.
 
-**What if I need more Customer Interactions, Redeem Locations, or Campaigns?**
+**What if I need more Customer Interactions, Redeem Locations, or Campaigns?**  
+
 We offer several additional preset packages with more user interactions, campaigns, and locations. If you need more than what's included in our packages, you can either sign up for an additional pricing plan or request a custom plan. Please email us at info@clearline.me or complete the form on our contact page.
 
-**What if I reach my limit of user interactions before the end of the billing cycle?**
+**What if I reach my limit of user interactions before the end of the billing cycle?**  
+
 We won't interrupt your marketing campaigns or deactivate coupons and loyalty cards if you reach your limit of user interactions. If your usage overage is 10% or less, we allow free overdraft use. If it’s more than 10% or happens before the 20th day of the billing cycle, we may upgrade you to the next package to provide more user interactions.
 
 It's a good idea to contact us if you plan a large campaign or notice higher-than-usual usage. To sign up for an additional pricing plan or a custom plan, please email us at hello@2reward.me or complete the form on our contact page.
 
-**How secure is your software?**
+**How secure is your software?**  
+
 ClearLine Mobile ensures that its platform complies with current marketing laws and adheres to strict security and privacy requirements. Our processes and procedures are designed to meet our digital and real-time marketing service objectives, based on:
 - Service commitments made to user entities.
 - Governing laws and regulations.
@@ -69,19 +82,21 @@ ClearLine Mobile ensures that its platform complies with current marketing laws 
 
 We adhere to state and local privacy security laws and regulations in all jurisdictions where we operate, ensuring the highest level of security and privacy for our services.
 
-**How long will data remain on your servers?**
+**How long will data remain on your servers?**  
+
 We take data security & privacy very seriously.
 - **Active Clients:** We do not remove any data as long as you are an active client. You can remove data from your account, and if you remove a coupon including its history, the data is permanently deleted. For bulk data removal, contact us for assistance.
 - **Temporary Freeze/Stopped:** Data is not removed during a temporary freeze. If you resume service within a year, all your previous data, including coupons, vouchers, and loyalty cards, will be available. If you do not return within one year, your account is canceled.
 - **Cancellations:** One year after your account’s expiration date, all data is permanently removed from our servers. If you want your data removed sooner, contact us, and we can remove it within 1-2 workdays.
 
-**Who owns the captured data in my account, coupons, and/or loyalty cards?**
+**Who owns the captured data in my account, coupons, and/or loyalty cards?**  
+
 You own all the data collected and stored in your account.
 - **Our Role:** We act as a data processor, processing personal data for the purposes described in our Privacy Policy, in compliance with GDPR, FCC, CAN-SPAM Act, and TCPA regulations. We process your data solely to provide the services subscribed by your company.
 - **Your Role:** Your company is the data owner and controller. As a data controller, you determine how and why the personal data is processed.
 - **Data Security:** We never sell your personal information to third parties. We store all personal information on redundant servers. We ensure your data is stored with the highest security standards.
 
-**Distribution Methods and Integrations**
+**Distribution Methods and Integrations**  
 
 | **Distribution Method**                                                                                              | **Starter** | **Advanced** | **Enterprise** |
 |----------------------------------------------------------------------------------------------------------------------|-------------|--------------|----------------|
@@ -98,13 +113,15 @@ You own all the data collected and stored in your account.
 | Webhooks                                                                                                              |             |              | ✓              |
 
 
-**Starter:**
+**Starter:**  
+
 **Distribution Methods:**
 - Social Media
 - URL Link
 - QR Codes
 
-**Advanced:**
+**Advanced:**  
+
 **Distribution Methods (Includes Starter):**
 - Social Media
 - URL Link
@@ -116,7 +133,8 @@ You own all the data collected and stored in your account.
 - NFC Tags (connect NFC tags to load mobile coupons)
 - Beacons (proximity awareness feature)
 
-**Enterprise:**
+**Enterprise:**  
+
 **Distribution Methods (Includes Starter and Advanced):**
 - Social Media
 - URL Link
@@ -143,10 +161,12 @@ You own all the data collected and stored in your account.
 
 **Choose the plan that best fits your distribution and integration needs.**
 
-**Do I need to pay for future updates and newly added features?**
+**Do I need to pay for future updates and newly added features?**  
+
 No, you do not need to pay extra for future updates and newly added features. All updates and new features are included in your subscription plan, ensuring you always have access to the latest tools and improvements at no additional cost.
 
-**What is the difference between Marketing Apps, Advanced Marketing Tools, and Outbound Marketing features?**
+**What is the difference between Marketing Apps, Advanced Marketing Tools, and Outbound Marketing features?**  
+
 
 **Marketing Apps:**
 - **Description:** These are applications designed to help you manage and execute your marketing campaigns.
@@ -179,7 +199,8 @@ No, you do not need to pay extra for future updates and newly added features. Al
 - **Advanced Marketing Tools** provide sophisticated features for optimizing your marketing efforts.
 - **Outbound Marketing** encompasses various channels to proactively reach and engage your audience.
 
-**Can I upgrade or downgrade my plan?**
+**Can I upgrade or downgrade my plan?**  
+
 Yes, you can upgrade or downgrade your plan at any time.
 
 **Upgrading Your Plan:**
