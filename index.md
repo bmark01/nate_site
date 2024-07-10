@@ -1,4 +1,4 @@
-# Nate site
+# Clearline Site 
 
 ### [Clearline Site Edits](edits.md)
 - Detailed verbiage edits for the Clearline site
