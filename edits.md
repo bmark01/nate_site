@@ -290,14 +290,26 @@ Yes, we offer a 14-day free trial. If you choose to continue with a paid subscri
 No long-term contracts are required, and you can cancel at any time. If you decide that ClearLine isn’t the best marketing solution for your business, you can easily cancel your account within the profile settings.
 
 ### What are the biggest differences between the price packages?
-Our plans differ mainly in two aspects:
+Our plans differ in two aspects:
 1. **Number of User Interactions:**
    - Choose a plan based on the estimated number of daily customer interactions.
    - Plans offer 500, 1,000, 2,000, 3,000, 5,000, or 10,000 user interactions.
+  
 2. **Included Marketing Apps and Advanced Marketing Tools:**
    - **Starter Plan:** 5 Marketing Apps and 1 Advanced Marketing Tool (with 1,000 interactions)
    - **Standard Plan:** 7 Marketing Apps and 6 Advanced Marketing Tools
    - **Advanced Plan:** 14 Marketing Apps and 16 Advanced Marketing Tools
+
+- **Number of User Interactions:** Choose a plan based on the estimated number of daily customer interactions. Plans offer 500, 1,000, 2,000, 3,000, 5,000, or 10,000 user interactions.
+
+| Plan          | User Interactions | Marketing Apps | Advanced Marketing Tools |
+|---------------|-------------------|----------------|--------------------------|
+| Starter Plan  | 500               | 5              | 1                        |
+| Starter Plan  | 1,000             | 5              | 1                        |
+| Starter Plan  | 2,000             | 5              | 1                        |
+| Standard Plan | 3,000             | 7              | 6                        |
+| Standard Plan | 5,000             | 7              | 6                        |
+| Advanced Plan | 10,000            | 14             | 16                       |
 
 ### Are there any extra costs after subscribing?
 No, there are no additional costs or licensing fees for using the Elements you've downloaded.
