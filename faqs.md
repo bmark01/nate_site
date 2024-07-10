@@ -16,8 +16,20 @@ No long-term contracts are required, and you can cancel at any time. If you deci
 
 **What are the biggest differences between the price packages?**  
 
-Our plans differ mainly in two aspects:
+Our plans differ mainly in two aspects :memo: **Note:** (**_what is the 2nd way they differ?- # of apps or # of tools?_**):
 - **Number of User Interactions:** Choose a plan based on the estimated number of daily customer interactions. Plans offer 500, 1,000, 2,000, 3,000, 5,000, or 10,000 user interactions.
+
+| Plan          | User Interactions | Marketing Apps | Advanced Marketing Tools |
+|---------------|-------------------|----------------|--------------------------|
+| Starter Plan  | 500               | 5              | 1                        |
+| Starter Plan  | 1,000             | 5              | 1                        |
+| Starter Plan  | 2,000             | 5              | 1                        |
+| Standard Plan | 3,000             | 7              | 6                        |
+| Standard Plan | 5,000             | 7              | 6                        |
+| Advanced Plan | 10,000            | 14             | 16                       |
+
+**Note:** Choose a plan based on the estimated number of daily customer interactions. Plans offer 500, 1,000, 2,000, 3,000, 5,000, or 10,000 user interactions.
+
 - **Included Marketing Apps and Advanced Marketing Tools:**
   - **Starter Plan:** 5 Marketing Apps and 1 Advanced Marketing Tool (with 1,000 interactions)
   - **Standard Plan:** 7 Marketing Apps and 6 Advanced Marketing Tools
