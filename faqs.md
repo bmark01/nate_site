@@ -27,6 +27,13 @@ Our plans differ in two aspects:
    - **Advanced Plan:** 14 Marketing Apps and 16 Advanced Marketing Tools
  
 
+- **Number of User Interactions:** Choose a plan based on the estimated number of daily customer interactions. Plans offer 500, 1,000, 2,000, 3,000, 5,000, or 10,000 user interactions.
+**Note:** Choose a plan based on the estimated number of daily customer interactions. Plans offer 500, 1,000, 2,000, 3,000, 5,000, or 10,000 user interactions.
+
+- **Included Marketing Apps and Advanced Marketing Tools:**
+  - **Starter Plan:** 5 Marketing Apps and 1 Advanced Marketing Tool (with 1,000 interactions)
+  - **Standard Plan:** 7 Marketing Apps and 6 Advanced Marketing Tools
+  - **Advanced Plan:** 14 Marketing Apps and 16 Advanced Marketing Tools
 
 | Plan          | User Interactions | Marketing Apps | Advanced Marketing Tools |
 |---------------|-------------------|----------------|--------------------------|
@@ -36,14 +43,6 @@ Our plans differ in two aspects:
 | Standard Plan | 3,000             | 7              | 6                        |
 | Standard Plan | 5,000             | 7              | 6                        |
 | Advanced Plan | 10,000            | 14             | 16                       |
-
-- **Number of User Interactions:** Choose a plan based on the estimated number of daily customer interactions. Plans offer 500, 1,000, 2,000, 3,000, 5,000, or 10,000 user interactions.
-**Note:** Choose a plan based on the estimated number of daily customer interactions. Plans offer 500, 1,000, 2,000, 3,000, 5,000, or 10,000 user interactions.
-
-- **Included Marketing Apps and Advanced Marketing Tools:**
-  - **Starter Plan:** 5 Marketing Apps and 1 Advanced Marketing Tool (with 1,000 interactions)
-  - **Standard Plan:** 7 Marketing Apps and 6 Advanced Marketing Tools
-  - **Advanced Plan:** 14 Marketing Apps and 16 Advanced Marketing Tools
 
 **Are there any extra costs after subscribing?**  
 
