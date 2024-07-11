@@ -10,7 +10,7 @@ ___
 ### Extracts:
 
 **Description:**
-These documents contain recurring themes compiled from all the site pages. Each theme or piece of information is aggregated into a single document.
+These documents contain recurring themes compiled from all of the site pages. Each theme or piece of information is aggregated into a single document.
 
 - _**Example:**_  
 About Clearline Document:
