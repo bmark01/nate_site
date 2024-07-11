@@ -85,10 +85,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "usecases.md",
+      "source_relative_path": "use.md",
       "output": {
         ".html": {
-          "relative_path": "usecases.html"
+          "relative_path": "use.html"
         }
       },
       "version": ""

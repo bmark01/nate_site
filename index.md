@@ -22,7 +22,7 @@ This document combines all "About Clearline" statements from various pages acros
   * [Clearline Hardware](./hardware.md)
   * [Clearline Solutions](./solutions.md)
   * [FAQs](./faqs.md)
-  * [Use Cases](/_site/usecases.html)
+  * [Use Cases](./use.md)
   * [Why Clearline/Value Proposition](./why.md)
 
 ____
