@@ -3,12 +3,9 @@
 # Table of Contents
 1.  [Home](#home)
 2.  [Solutions](#solutions)
-3.  [Use Cases](#use-cases)
-4.  [Management Hierarchy](#management-hierarchy)
-5.  [White Label](#white-label)
-6.  [Reporting](#reporting)
-7.  [FAQs](#faqs)
-8.  [Distribution Methods and Integrations](#distribution-methods-and-integrations)
+3.  [Features](#features)
+4.  [Resources](#resources)
+
 
 # Home
 **Digital Marketing for Sales, Pickup, Delivery, and Service Locations**
@@ -101,7 +98,7 @@ ClearLine kiosks are also ideal for Point of Sale software, table order kiosks, 
 - Display: 1920 x 1080
 - Storage: 2GB RAM | 16GB Storage
 
-### Pricing:
+**Pricing:**
 - $25 per month with any plan
 - Free with the Unlimited plan
 - Purchase for $299
@@ -250,7 +247,7 @@ The Tablet is NOT included!
 📌 **Note:**
 > I suggest taking the word “For” out of the dropdown selections  
 > 
-#### Solutions/Enterprise & Multi-location Companies
+## Solutions/Enterprise & Multi-location Companies
 For multi-location and enterprise companies, effective in-store and POS marketing can make or break a local campaign.
 
 **Key Advantages of ClearLine:**
@@ -516,7 +513,7 @@ ClearLine’s Downloadable Mobile Application feature enables you to promote you
 
  directly from the point of sale. Display QR codes that customers can scan or click to download your app.
 
-## Point of Sale Systems
+## Solutions/Point of Sale Systems
 
 ClearLine has revolutionized in-store marketing and Point of Sale (POS) systems by offering software that enhances the experience for both businesses and customers.   
 
