@@ -1,6 +1,5 @@
 # Use Cases
 
-# Use Case References
 
 1. **Digital In-Store Engagement & Retention Tool**
    - Enhance customer connections by getting reviews, likes, and followers.

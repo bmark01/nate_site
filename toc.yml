@@ -10,5 +10,8 @@ items:
   href: solutions.md
 - name: FAQs
   href: faqs.md
+- name: Use Cases
+  href: use-cases.md
 - name: Why Clearline/Value Proposition  extracts
   href: why.md
+
