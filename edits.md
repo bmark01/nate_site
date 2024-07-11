@@ -1,7 +1,7 @@
 # Clearline Site Edits
 
 # Table of Contents
-1. [Home](#home)
+1.  [Home](#home)
 2.  [Solutions](#solutions)
 3.  [Use Cases](#use-cases)
 4.  [Management Hierarchy](#management-hierarchy)
@@ -10,25 +10,25 @@
 7.  [FAQs](#faqs)
 8.  [Distribution Methods and Integrations](#distribution-methods-and-integrations)
 
-## Home
+# Home
 **Digital Marketing for Sales, Pickup, Delivery, and Service Locations**
 Boost Sales and Engagement with ClearLine
 ClearLine is the ultimate solution for retailers and service-oriented businesses. Our innovative platform enhances customer spending, captures valuable reviews, gathers customer data, and digitizes loyalty programs—all in one place.
 
-#### Why Choose ClearLine?
+**Why Choose ClearLine?**
 - Seamless marketing campaigns
 - Integrated in-store and POS solutions
 - Personalized customer experiences
 - Streamline your marketing efforts with ClearLine and keep your customers coming back for more.
 
-## In-Store Marketing Solution
+### In-Store Marketing Solution
 ClearLine is an in-store digital marketing automation platform that integrates with your POS system, engaging customers during transactions by displaying intelligent QR codes on the customer-facing screen or sending SMS or email messages.  
 
 ClearLine provides businesses with a comprehensive, real-time, one-to-one (1:1) digital marketing solution that complies with all current rules and regulations.  
 
 Developed for small businesses, franchises, and brands with dealer and distributor networks, ClearLine enables clients to access real-time, personalized marketing solutions at the point of purchase.
 
-## Digital In-Store Engagement & Retention Tool
+### Digital In-Store Engagement & Retention Tool
 ClearLine works on any internet-connected device. It's fast, easy to use, and built to deliver instant, measurable results for any direct-to-consumer business.  
 
 The best time to connect with your customers is when they are right in front of you!  
@@ -49,7 +49,7 @@ In fact, you can fully automate any marketing activity, making it just one or tw
 
 **Universal Compatibility:** Our software works on any internet-connected device. It's fast, easy to use, and intuitive.
 
-## Devices and Device+Hardware Bundles**
+## Devices and Device+Hardware Bundles
 **ClearLine Marketing Devices and Bundles**  
 
 📌 **Note:**
@@ -59,6 +59,7 @@ In fact, you can fully automate any marketing activity, making it just one or tw
 Select any device to add to your monthly plan. If you have multiple registers (POS stations) at your location, choose as many devices as you need.
 
 ### Portable Terminal (Scanner & Printer)
+**All-in-One Smart Android Handheld POS**
 - Built-in thermal printer and camera
 - Functions as a receipt printer, scanner, and camera
 - Supports 3G, WiFi, BT4.0, 8GB NAND Flash
@@ -68,12 +69,12 @@ Select any device to add to your monthly plan. If you have multiple registers (P
 - Runs on Android 8.1 OS, ideal for apps requiring printing or 1D scanning
 - User-friendly and efficient for sales processing, warehouse management, and small businesses
 
-### Pricing:
+**Pricing:**
 - $19 per month with any plan
 - Free with the Unlimited plan
 - Purchase for $199
 
-### Lenovo Tab 4 8 Tablet
+### Lenovo Tab 4 8" Tablet
 A vibrant 8-inch display tablet designed for a great multimedia experience with a crisp IPS display and powerful speakers with Dolby Atmos sound. Use it to show important information, advertise services, and allow customers to scan QR codes for marketing activities.
 
 **Specifications:**
@@ -83,7 +84,7 @@ A vibrant 8-inch display tablet designed for a great multimedia experience with 
 - Display: 8″ 1280 x 800 IPS Display
 - Storage: 2GB RAM | 16GB Storage + Micro-USB | microSD Slot
 
-### Pricing:
+**Pricing:**
 - $15 per month with any plan
 - Free with the Unlimited plan
 - Purchase for $99
@@ -198,7 +199,7 @@ The Tablet is NOT included!
 - Free with the Unlimited plan
 - Purchase for $25
 
-**Tablet Cable Lock Hardware**
+### Tablet Cable Lock Hardware
 - Protect Your Valuables with a Universal Lock
 - Ensure the security of your devices with this universal lock that secures any tablet or device effectively and with ease. The industrial-strength adhesive creates a security slot for any tablet, securing it with a steel cable lock.
 
@@ -245,7 +246,7 @@ The Tablet is NOT included!
 ## Features of Real-Time Marketing
 **ClearLine** streamlines your marketing process by eliminating extra steps and time delays, enhancing efficiency, and delivering immediate, measurable results. Engage with customers and see guaranteed, instant outcomes.
 
-## Solutions
+# Solutions
 📌 **Note:**
 > I suggest taking the word “For” out of the dropdown selections  
 > 
@@ -264,7 +265,7 @@ For multi-location and enterprise companies, effective in-store and POS marketin
 - **Digital Coupons:** Incentivize purchases and encourage customer loyalty with ease.
 - **Integration-Friendly:** ClearLine integrates seamlessly with your existing marketing tools and platforms, enhancing your current setup without requiring a complete switch.
 
-## Use Cases
+### Use Cases
 Discover how ClearLine can elevate your digital marketing strategy. Whether you aim to create custom marketing materials, incentivize repeat business, garner online reviews, or engage with customers on social media, ClearLine provides the essential tools and features for your success.
 
 ### POS Marketing for Multiple Locations
@@ -286,7 +287,7 @@ Alternatively, use our Templates Library to save time and focus your creativity 
 
 ### Management Hierarchy
 📌 **Note:**
-> Is this section necessary? Seems like profiles are more of a backend feature?  
+> Is this section necessary? Seems like profiles are more of a back-end feature?  
 >
 Avoid the pitfalls of inexperienced employees having unrestricted access to all features and materials, leading to potential mishaps like accidentally deleting multiple years of customer data.  
 
@@ -348,7 +349,7 @@ This flexibility can serve as an additional perk to encourage greater B2B involv
 
 ### Control Over Access
 📌 **Note:**
-> Is this the same as above? Necessary? Should they be collapsed into one?
+> Is this the same as above, necessary? Should they be collapsed into one?
 
 With ClearLine, you have full control to manage access to your marketing materials.  
 If needed, you can revoke a unit’s access to previously shared materials entirely or selectively. You can also restrict access to any future materials, ensuring your marketing strategy remains aligned with your business needs.
@@ -373,7 +374,7 @@ Using ClearLine products alongside our hardware offering provides customers with
 
 All it takes is the right setup of a Customer Facing Screen, a Digital Kiosk, and an Advertising Display.
 
-### Solutions/Marketing Companies
+## Solutions/Marketing Companies
 
 **Marketing Companies**
 
@@ -394,7 +395,7 @@ And much more.
 ### Why ClearLine?
 
 📌 **Note:**
-> There are quite a few “why clearline” statements on the site. Should we use only one vs recreating for each page?
+> There are quite a few “why clearline” statements on the site. Should we use only one vs recreating for each page? (see extracts in [why doc](why.md))
 
 ClearLine integrates digital marketing with traditional POS marketing, adding innovative engagement features to create a comprehensive marketing solution.  
 
@@ -402,35 +403,35 @@ Traditional POS marketing focuses on visually appealing elements and strategic p
 
 Beyond boosting sales and brand awareness, ClearLine tools transform a single POS campaign into opportunities for growing your social media following and improving your online reputation.
 
-**Use Cases**
+### Use Cases
 
 📌 **Note:**
 > These seem to be reused as well. Should we consolidate and use one?
 
-**Data Analytics Enhancement**
+### Data Analytics Enhancement
 📌 **Note:**
 > This is duplicated (2 in a row) on the website.
 
 
 POS marketing provides valuable data on customer behavior and preferences, which can be used to optimize marketing strategies and improve business operations. ClearLine keeps track of client activity, enabling businesses or their representatives to identify trends and make data-driven decisions that lead to increased sales and customer satisfaction.
 
-**Visual Material Usage**
+### Visual Material Usage
 
 ClearLine’s Template Library empowers agencies to create eye-catching displays and signage that effectively promote their clients' products or services. The library offers a variety of customizable templates with consistent tracking.  
 
 Marketing agencies can use these tools to help their clients develop attractive and informative displays that align with their brand and marketing goals.
 
-**Customer Data Storage**
+### Customer Data Storage
 
 ClearLine caters to clients with or without their own data storage systems.   
 
 For clients without data storage capabilities, ClearLine securely stores the collected data, ensuring they still benefit from comprehensive customer analytics. This means your clients can enjoy all the advantages of detailed customer insights without the need for their own storage infrastructure.
 
-**Versatility**
+### Versatility
 
 ClearLine allows synchronization with third-party systems and platforms, enabling businesses to retain and integrate existing, effective solutions. This flexibility ensures that clients can benefit from everything the market currently offers without discarding what already works.
 
-**White Label**
+### White Label
 
 📌 **Note:**
 > Do we need this? Or should we just define white label more generically?
@@ -439,9 +440,9 @@ ClearLine apps and services can enhance your competitive advantage.
 
 You don’t need to disclose your affiliation with ClearLine to your clients. Instead, use ClearLine as a white-label solution, branding it according to your needs to create an incredible offer for your clients.
 
-### Solutions/Small Businesses
+## Solutions/Small Businesses
 
-**Small Businesses**
+### Small Businesses
 
 As a small business owner, every customer interaction is crucial. Each touchpoint, whether it's with a new visitor or a loyal customer, presents an opportunity to engage, serve, collect data, and boost sales.  
  
@@ -449,7 +450,7 @@ With limited resources and budgets, small businesses need to be strategic and in
 
 Explore the key features of ClearLine and discover how they can benefit your small business:
 
-#### Why ClearLine?
+### Why ClearLine?
 
 ClearLine offers efficient in-store and POS marketing solutions for small businesses. Its user-friendly platform enhances marketing efforts, boosts sales, and increases customer loyalty.  
 
@@ -457,7 +458,7 @@ ClearLine offers tools for online reviews, customized promotions, loyalty progra
 
 The platform's convenience, flexibility, and affordable pricing make ClearLine the ideal choice for small businesses looking to elevate their POS marketing strategies.
 
-#### Use Cases
+### Use Cases
 
 ClearLine empowers small businesses marketing and loyalty programs by setting up interactive screens in their stores.
 
@@ -468,7 +469,7 @@ ClearLine empowers small businesses marketing and loyalty programs by setting up
 - **Conducting Surveys:** Gain insights into customer preferences and satisfaction.
 - **Selling Gift Cards and Digital Coupons:** Drive sales through convenient digital options.
 
-#### Marketing Templates Library
+### Marketing Templates Library
 
 ClearLine’s Templates Library offers a wide range of professionally designed templates for Customer Facing Screens, digital displays, and micro landing page campaigns. Easily customizable to match your brand's unique style, these templates help you quickly create eye-catching marketing materials that capture attention and drive customer engagement.   
 
@@ -476,46 +477,46 @@ These features create an immersive and interactive shopping experience, increasi
 
 Explore how your business can benefit from the ClearLine in-store and POS marketing ecosystem.
 
-#### Print Flyers with QR Codes
+### Print Flyers with QR Codes
 
 ClearLine’s Print Flyers with QR Codes feature lets you create flyers embedded with QR codes using your Customer Facing Screen (CFS) templates. These QR codes instantly connect customers to your digital content, such as special offers, promotions, or loyalty programs. Distribute these flyers in-store or through other marketing channels to drive traffic to your 
 📌 **Note:**
 > stores (vs digital assets?) and boost customer engagement.
 
-#### Smart Page
+### Smart Page
 
 ClearLine’s Smart Page feature allows you to create a digital landing page accessible via a QR code. This page serves as a hub for all of your marketing materials, including coupons, gift cards, and promotions. It makes it easy for customers to access and redeem your offers.
 
-#### Customer-Facing Screen
+### Customer-Facing Screen
 
 ClearLine’s Customer-Facing Screen transforms your point-of-sale system into a powerful marketing tool. Display targeted promotions, offers, and announcements on a screen visible to customers during checkout. This feature provides valuable opportunities to upsell, cross-sell, and promote your loyalty program, driving additional revenue and boosting customer engagement.
 
-#### Digital Kiosk
+### Digital Kiosk
 
 ClearLine’s Digital Kiosk feature enables you to create an interactive kiosk in your store to engage customers and drive sales. Use the kiosk to display special promotions, collect customer feedback, or run surveys. This provides an engaging customer experience while helping you gather valuable data and insights to inform your marketing strategies.
 
-#### Advertising Display
+### Advertising Display
 
 ClearLine’s Advertising Display feature lets you create and display digital ads on screens within your store. Showcase your latest promotions, highlight new products, or partner with local businesses for co-marketing opportunities. This feature helps capture customer attention and drive sales directly from the point of sale.
 
-#### Add to Birthday Club
+### Add to Birthday Club
 
 Birthdays are a special occasion. With ClearLine’s Add to Birthday Club feature, you can create a birthday club for your customers and offer exclusive promotions or discounts on their special day. This not only shows your customers that you value their loyalty but also encourages repeat business and customer retention.
 
-#### Add to Waitlist
+### Add to Waitlist
 
 ClearLine’s Add to Waitlist feature helps you manage waitlists for popular products or services in your store. Capture customer information, send notifications when their desired item or service is available, and offer incentives to encourage them to return and make a purchase.
 
-#### Mobile App
+### Mobile App
 
-ClearLine’s Downloadable Mobile App feature enables you to promote your business’s mobile application
+ClearLine’s Downloadable Mobile Application feature enables you to promote your business’s mobile application
 
 📌 **Note:**
 > Should this say mobile site or do the businesses get to create their own mobile app?
 
  directly from the point of sale. Display QR codes that customers can scan or click to download your app.
 
-### Point of Sale Systems
+## Point of Sale Systems
 
 ClearLine has revolutionized in-store marketing and Point of Sale (POS) systems by offering software that enhances the experience for both businesses and customers.   
 
@@ -523,7 +524,7 @@ With ClearLine’s innovative software, businesses can effortlessly engage custo
 
 A unique feature of ClearLine’s software is its seamless integration with existing POS providers and systems. This integration provides access to automated and manual engagement flows and Advertising Display options, allowing users to collect inbound data and display promotions and special offers on the Customer Facing screen.
 
-**Why ClearLine?**
+### Why ClearLine?
 
 ClearLine’s marketing software works seamlessly with any POS system provider on the market.   
 
@@ -531,17 +532,17 @@ Here’s how it works: When a triggering action occurs, such as a certain amount
 
 While a payment is being processed, customers can engage with the marketing activities you’ve set up at your point of sale.
 
-**Use Cases**
+### Use Cases
 
 Let’s explore how ClearLine works in practice across various common business scenarios.
 
-**Online Reputation**
+### Online Reputation
 
 With ClearLine’s software, businesses can prompt customers who spend above a certain amount to leave a review by scanning a QR code on the Customer Facing Display.   
 
 This encourages satisfied customers to leave positive reviews, improving the business's online reputation. By leveraging ClearLine’s software, businesses can generate positive reviews, increase customer engagement, drive repeat business, and boost sales.
 
-**POS Coupon Marketing**
+### POS Coupon Marketing
 
 Businesses can boost customer retention and drive repeat purchases by automating coupon offers with ClearLine’s software.   
 
@@ -549,7 +550,7 @@ Set up a trigger action to display a coupon on the Customer Facing Display at th
 
 Offering these coupons incentivizes customers to return and make another purchase, increasing revenue and building customer loyalty.
 
-**White Label**
+### White Label
 
 ClearLine offers its services as a white label, allowing businesses to use all its apps and services without revealing their affiliation with ClearLine.   
 
@@ -557,7 +558,7 @@ This feature is ideal for businesses that prefer to maintain their own branding 
 
 ClearLine welcomes all forms of collaboration. Businesses can reach out to discuss their plans and explore various options. This flexibility makes ClearLine a popular choice for businesses of all sizes seeking a customizable POS marketing system to engage customers and boost sales.
 
-**Effortless In-Store Marketing**
+### Effortless In-Store Marketing
 
 When implemented correctly, in-store and POS marketing can be a substitute for expensive online marketing.   
 
@@ -565,7 +566,7 @@ Don't limit yourself to a single customer-facing screen at your point of sale. U
 
 This approach provides more points of contact for one-to-one engagement with customers, effectively replacing traditional in-store marketing methods.
 
-**Easy Integration**
+### Easy Integration
 
 ClearLine products are designed to seamlessly integrate with any existing services or systems, including your current POS system.   
 
@@ -578,107 +579,107 @@ Continue using the trusted products you rely on and add the additional benefits 
 
 ## Retention Marketing
 
-**Smart Page**
+### Smart Page
 
 A turnkey, mobile-friendly website linked to a dynamic QR code and link, integrating all of ClearLine’s point-of-sale marketing tools. Customize the page to include any marketing engagement options available in your ClearLine account.
 
-**Digital Coupons**
+### Digital Coupons
 
 ClearLine clients can easily send digital coupons via email, SMS, or QR Code by selecting a coupon and adding recipients.
 
-**Referral Program**
+### Referral Program
 
 Boost word-of-mouth advertising with this app. Configure rules and rewards, or link to your existing referral program.
 
-**Set a Reminder**
+### Set a Reminder
 
 Quickly send customers email or text reminders. Simply create a template to be sent to your customers.
 
-**Send Gift Card**
+### Send Gift Card
 
 Encourage repeat business by sending gift cards. Just link to your gift card and provide the customer’s email or phone number.
 
-**Add to Promo List**
+### Add to Promo List
 
 Easily and compliantly sign up customers for promotional messages via SMS, email, and push notifications.
 
-**Loyalty Program**
+### Loyalty Program
 
 Provide access to a digital loyalty program. Customize and control the program's terms to suit your needs.
 
 ## Reputation & Social Marketing
 
-**Review Request**
+### Review Request
 
 Send customers a text or email with links to leave a review.
 
-**Connect on Social Media**
+### Connect on Social Media
 
 Provide customers with links to all your social media accounts, enabling them to follow you instantly and increase your follower count quickly.
 
-**Send Survey**
+### Send Survey
 
 Quickly collect customer feedback by sending survey forms via text or email, increasing the likelihood of getting responses.
 
-**Validate Coupon**
+### Validate Coupon
 
 Ensure single-use and prevent fraud by validating coupons with a code or barcode, simplifying the process for employees.
 
-### Point of Sale Marketing
+## Point of Sale Marketing
 
-**POS Marketing Automation**
+### POS Marketing Automation
 
-**ClearLine for Clover POS**
+### ClearLine for Clover POS
 
-**Marketing Templates**
+### Marketing Templates
 
 Save time and money with ClearLine's client-friendly Template Library, offering pre-made visual materials for your marketing needs.
 
-**Print Flyers with QR Codes**
+### Print Flyers with QR Codes
 
 Combine offline and online marketing. Print flyers from your account, and use QR codes to link to social media, loyalty programs, special offers, and more.
 
-**Customer-Facing Screen**
+### Customer-Facing Screen
 
 Display important information, advertise services, and let customers scan QR codes for quick actions.
 
-**Digital Kiosk**
+### Digital Kiosk
 
 Allow in-store customers to send themselves discounts, redeem coupons, and check-in for loyalty programs via a Mobile Marketing Kiosk.
 
-**Advertising Display**
+### Advertising Display
 
 Stand out with digital signage and advertising displays, capturing customer attention in a competitive market.
 
 ## Personalized and 1-to-1 Marketing
 
-**QR Codes for Menus**
+### QR Codes for Menus
 
-**Birthday Club**
+### Birthday Club
 
 The Birthday Club app allows you to get more personal with your customers by sending them an SMS on their birthday with a special coupon.
 
-**Add to Waitlist**
+### Add to Waitlist
 
 Keep customers coming back and prevent them from walking out to competitors. This app tracks who to notify when an opening is available.
 
-**Send a Payment Link**
+### Send a Payment Link
 
 Easily charge customers online by sending a link to sign up for automated payments or to buy a specific product or service on your website.
 
-**Download Mobile App**
+### Download Mobile App
 
 Direct customers to where your app can be found and downloaded, eliminating the need to search through the App Store or Google Play. Just click and download.
 
-**Schedule an Appointment**
+### Schedule an Appointment
 
 Set up an appointment booking system for customer self-scheduling or add a link to your existing scheduling page.
 
 # Resources
 
-### About
+## About
 
-**About ClearLine Mobile**  
+### About ClearLine Mobile
 
 📌 **Note:**
 > Should this be pulled out as its own menu?
@@ -707,15 +708,15 @@ ClearLine Mobile provides a comprehensive, real-time, one-to-one marketing solut
 * Our software is fast, easy to use, and intuitive, working seamlessly on any connected device. Most marketing actions can be completed in just three steps. 
 * We've helped hundreds of brands and small businesses achieve their marketing goals since 2011.
 
-### How it Works
+## How it Works
 
 Partnering with ClearLine Apps simplifies your marketing efforts. Easily connect your social pages, create digital coupons, and set up birthday clubs. Our platform focuses on delivering measurable results and a high return on investment. It is also user-friendly and easy to train on.
 
-**How to Engage with Customers at the Time of Purchase**
+### How to Engage with Customers at the Time of Purchase
 
 Engage your customers at the point of sale by offering a coupon for their next visit, asking for an online review, or encouraging referrals. Display a QR code that customers can scan to instantly access a branded landing page with your selected marketing action. This allows them to easily and conveniently access offers right from their phones.
 
-**Why ClearLine Apps?**
+### Why ClearLine Apps?
 
 ClearLine Apps provide businesses with powerful tools that enhance their marketing and accounting workflows. Here’s why you should choose ClearLine Apps:
 
@@ -728,7 +729,7 @@ ClearLine Apps provide businesses with powerful tools that enhance their marketi
 
 Choose ClearLine Apps to streamline your marketing efforts and enhance customer engagement effectively.
 
-**How to Start Using ClearLine Marketing Apps**
+### How to Start Using ClearLine Marketing Apps
 
 To begin real-time digital marketing for your business, register for a 14-day free trial and follow these steps:
 
@@ -744,7 +745,7 @@ To begin real-time digital marketing for your business, register for a 14-day fr
 
 Enjoy a Seamless Start with ClearLine Marketing Apps!
 
-**Use Cases**
+### Use Cases
 
 ClearLine's real-time marketing software is versatile and can be used on any device with an internet browser, adapting to your business model, location, and technology. Here’s how ClearLine can benefit your business:
 
@@ -787,13 +788,13 @@ ClearLine's real-time marketing software is versatile and can be used on any dev
 
 With ClearLine, you can streamline your marketing efforts and improve customer engagement across various devices and platforms.
 
-### Smart QR Codes
+## Smart QR Codes
 
 QR (quick response) codes have been around since 1994, originally developed by a Japanese engineer for tracking components in car factories. Over the years, they have evolved into a powerful marketing tool.   
 
 During the Covid-19 pandemic, QR codes saw a resurgence in popularity, particularly in restaurants for contactless menus. This trend has continued, with 75.8 million U.S. smartphone users scanning a QR code last year, a 15.3% increase from 2020. By 2025, it's predicted that 99.5 million people in the U.S. will use QR codes.
 
-### The Power of QR Codes
+## The Power of QR Codes
 
 **Why Use QR Codes in Your Marketing?**
 
@@ -816,7 +817,7 @@ Using QR codes in your marketing strategy can streamline the customer experience
 Rebecca Kowalewicz, Vice President, Digital at Clearbridge Branding Agency
 
 
-### Why QR Code Marketing?
+## Why QR Code Marketing?
 
 📌 **Note:**
 > Is this page a dup?
@@ -837,7 +838,7 @@ ClearLine offers state-of-the-art solutions for In-Store and POS marketing, and 
 
 ClearLine’s platform enhances the use of QR codes, integrating them into your marketing strategy for measurable results. ClearLine Apps provides businesses with powerful tools to enhance their marketing and accounting workflows. Here’s why you should choose ClearLine Apps:
 
-### ClearLine Kiosk: How to Start
+## ClearLine Kiosk: How to Start
 
 Thank you for purchasing the ClearLine Kiosk Tablet! This guide will help you start using your new marketing device.
 
@@ -871,16 +872,16 @@ Join the Stacks community now to receive free updates and a host of exclusive fr
 
 For more information, contact Support.
 
-**What is special about ClearLine’s Marketing Platform?**
+### What is special about ClearLine’s Marketing Platform?
 ClearLine’s Marketing Center simplifies the process of connecting brands, businesses, and customers with personalized messages at the time of purchase. It eliminates extra steps and delays, increases efficiency, and delivers instant, measurable results. Our platform provides a real-time, one-to-one digital marketing solution that complies with all current regulations.
 
-**Can I try it before I buy it?**
+### Can I try it before I buy it?
 Yes, we offer a 14-day free trial. If you choose to continue with a paid subscription, your account will automatically convert to a paid status after the trial period ends. If you decide not to continue, simply cancel before the trial period concludes.
 
-**Do I need to sign a long-term contract, or can I cancel at any time?**
+### Do I need to sign a long-term contract, or can I cancel at any time?
 No long-term contracts are required, and you can cancel at any time. If you decide that ClearLine isn’t the best marketing solution for your business, you can easily cancel your account within the profile settings.
 
-**What are the biggest differences between the price packages?**
+### What are the biggest differences between the price packages?
 Our plans differ in two aspects:
 1. **Number of User Interactions:**
    - Choose a plan based on the estimated number of daily customer interactions.
@@ -902,13 +903,13 @@ Our plans differ in two aspects:
 | Standard Plan | 5,000             | 7              | 6                        |
 | Advanced Plan | 10,000            | 14             | 16                       |
 
-**Are there any extra costs after subscribing?**
+### Are there any extra costs after subscribing?
 No, there are no additional costs or licensing fees for using the Elements you've downloaded.
 
-**What is Auto-Renew?**
+### What is Auto-Renew?
 Auto-Renew means your subscription automatically renews each month on the same day it started, as long as your billing information is valid and you haven't canceled. If you don't want to renew, you can cancel anytime through your account dashboard before the end of your billing period.
 
-**What is User/Customer Interaction?**
+### What is User/Customer Interaction?
 A user or customer interaction occurs when:
 - A review request is sent via SMS, email, or QR code scan.
 - A customer clicks a link to open a landing page with your review links and follows through to leave a review on Google, Yelp, or Facebook.
@@ -919,13 +920,13 @@ A user or customer interaction occurs when:
 
 You can use your allowed number of user interactions for various marketing activities such as coupons, loyalty programs, SMS, email, or any combination thereof. You have full control over how you utilize these marketing tools, and our pricing ensures no surprises.
 
-**How are User Interactions Measured?**
+### How are User Interactions Measured?
 User interactions are measured monthly and reset to zero on the same day your subscription started each month.
 
-**What is the difference between an Account and a Location?**
+### What is the difference between an Account and a Location?
 An account represents your business entity in our system and includes users and one or more locations. A location is the physical business address you operate from or promote using our marketing software. Each message sent by our platform includes your location details. One account can have multiple locations, each requiring a paid monthly plan, and all locations under one account must be on the same plan.
 
-**How to Temporarily Stop Recurring Monthly Payments**
+### How to Temporarily Stop Recurring Monthly Payments
 To temporarily stop or freeze your account:
 1. Go to your profile page and click on "User Profile."
 2. Click on "My Plan" and follow the steps to edit your subscription.
@@ -938,17 +939,17 @@ The **maximum duration for a freeze period is 3 months**.
 
 To reactivate your payment subscription, log in with your account credentials and select "Upgrade Now" on the dashboard. Our platform will guide you through reactivating your payment plan.
 
-**What if I need more Customer Interactions, Redeem Locations, or Campaigns?**
+### What if I need to add more services (customer interactions, redeem locations, or campaigns) to my account?
 We offer several additional preset packages with more user interactions, campaigns, and locations. If you need more than what's included in our packages, you can either sign up for an additional pricing plan or request a custom plan. Please email us at info@clearline.me or complete the form on our contact page.
 
-**What if I reach my limit of user interactions before the end of the billing cycle?**
+### What if I reach my limit of user interactions before the end of the billing cycle?**
 We won't interrupt your marketing campaigns or deactivate coupons and loyalty cards if you reach your limit of user interactions.   
 
 If your usage overage is 10% or less, we allow free overdraft use. If it’s more than 10% or happens before the 20th day of the billing cycle, we may upgrade you to the next package to provide more user interactions.   
 
 It's a good idea to contact us if you plan a large campaign or notice higher-than-usual usage. To sign up for an additional pricing plan or a custom plan, please email us at hello@2reward.me or complete the form on our contact page.
 
-**How secure is your software?**
+### How secure is your software?
 ClearLine Mobile ensures that its platform complies with current marketing laws and adheres to strict security and privacy requirements. Our processes and procedures are designed to meet our digital and real-time marketing service objectives, based on:
 - Service commitments made to user entities.
 - Governing laws and regulations.
@@ -956,7 +957,7 @@ ClearLine Mobile ensures that its platform complies with current marketing laws 
 
 We adhere to state and local privacy security laws and regulations in all jurisdictions where we operate, ensuring the highest level of security and privacy for our services.
 
-**How long will data remain on your servers?**
+### How long will data remain on your servers?
 We take data security & privacy very seriously.
 
 **Active Clients:**
@@ -973,7 +974,7 @@ We take data security & privacy very seriously.
 - One year after your account’s expiration date, all data is permanently removed from our servers.
 - If you want your data removed sooner, contact us, and we can remove it within 1-2 workdays.
 
-**Who owns the captured data in my account, coupons, and/or loyalty cards?**
+### Who owns the captured data in my account, coupons, and/or loyalty cards?
 You own all the data collected and stored in your account.
 
 **Our Role:**
@@ -994,7 +995,7 @@ You own all the data collected and stored in your account.
 📌 **Note:**
 > What is the question for this one?
 
-**2 Reward Me** 
+**"2 Reward Me"** 
 📌 **Note:**
 > Is this still the correct term?
 
@@ -1045,13 +1046,13 @@ Is a cross-media platform for coupon distribution across all marketing channels.
 
 **Choose the plan that best fits your distribution and integration needs.**
 
-**Do I need to pay for future updates and newly added features?**
+### Do I need to pay for future updates and newly added features?
 📌 **Note:**
 > Is this correct? There was no info. Took from the other site I was editing. 
 
 No, you do not need to pay extra for future updates and newly added features. All updates and new features are included in your subscription plan, ensuring you always have access to the latest tools and improvements at no additional cost.
 
-**What is the difference between Marketing Apps, Advanced Marketing Tools, and Outbound Marketing features?**
+### What is the difference between Marketing Apps, Advanced Marketing Tools, and Outbound Marketing features?
 
 > 📌 **Note:**
 > Is this correct? There was no info. Took from the other site I was editing
@@ -1087,7 +1088,7 @@ No, you do not need to pay extra for future updates and newly added features. Al
 
 **In summary:** Marketing Apps help you manage campaigns via mobile applications, Advanced Marketing Tools provide sophisticated features for optimizing your marketing efforts, and Outbound Marketing encompasses various channels to proactively reach and engage your audience.
 
-**Can I upgrade or downgrade my plan?**
+### Can I upgrade or downgrade my plan?
 
 📌 **Note:**
 > Is this correct? There was no info. Took from the other site I was editing
@@ -1107,6 +1108,6 @@ Yes, you can upgrade or downgrade your plan at any time.
 Any changes to your plan will take effect immediately, and you will be billed or credited accordingly based on the new plan's pricing and features.
 
 
-### Blog
+## Blog
 📌 **Note:**
 > Does this need to be edited or since it's been published already, leave it?
