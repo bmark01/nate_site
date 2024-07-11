@@ -1,7 +1,8 @@
 # Use Cases
 
 📌 **Note:**
-> These look more like solutions and/or product descriptions. Should we rename the sections on the site or build some use cases?
+> These look more like solutions and/or product descriptions. Should we rename the sections on the site or build some use cases?  
+
 
 1. **Digital In-Store Engagement & Retention Tool**
    - Enhance customer connections by getting reviews, likes, and followers.
