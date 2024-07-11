@@ -1,6 +1,6 @@
 # Clearline Solutions
 
-# Solutions
+
 #### Solutions for Different Business Types
 
 **Enterprise & Multi-location Companies**

@@ -1,8 +1,7 @@
 # FAQs
 
-**FAQs**
 
-**What is special about ClearLine’s Marketing Platform?**  
+**What is unique about ClearLine’s Marketing Platform?**  
 
 ClearLine’s Marketing Center simplifies the process of connecting brands, businesses, and customers with personalized messages at the time of purchase. It eliminates extra steps and delays, increases efficiency, and delivers instant, measurable results. Our platform provides a real-time, one-to-one digital marketing solution that complies with all current regulations.
 

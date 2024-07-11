@@ -1,20 +1,30 @@
-# Clearline Site 
+# Clearline Site Documentation
+___  
 
-### [Clearline Site Edits](edits.md)
-- Detailed verbiage edits for the Clearline site
+### [Clearline Site- All Edits by Page Navigation](edits.md)
+**Description:**
+ Detailed verbiage edits for the [ClearLine website](https://clearlineapps.com/)
 
+___
 ### Extracts:
 
-- These are recurring "themes" that were compiled from multiple site pages.  
+**Description:**
+These documents contain recurring themes compiled from all the site pages. Each theme or piece of information is aggregated into a single document.
 
-- Each theme or piece of information is aggregated into a single document.
-      * _Example:_ About Clearline Document:
-            Combines all "About Clearline" information from various pages across the site into one comprehensive document.  
+- Example: About Clearline Document:
+This document combines all "About Clearline" statements from various pages across the site into one comprehensive document.
+
+💡 **Tip:**
+> These documents would be a great place to start to build a library of verbiage for your site(s) vs recreating verbiage and definitions for each page.
+
 
   * [About Clearline](./about.md)
   * [Clearline Hardware](./hardware.md)
   * [Clearline Solutions](./solutions.md)
   * [FAQs](./faqs.md)
+  * [Use Cases](./use-cases.md  )
   * [Why Clearline/Value Proposition](./why.md)
+
+____
 
 
