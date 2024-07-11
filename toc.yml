@@ -2,10 +2,12 @@
 items:
 - name: Nate site
   href: index.md
-- name: About Clearline  extracts
+- name: About Clearline
   href: about.md
 - name: Clearline Hardware
   href: hardware.md
+- name: Clearline Site Edits
+  href: edits.md
 - name: Clearline Solutions
   href: solutions.md
 - name: FAQs
@@ -14,4 +16,3 @@ items:
   href: use-cases.md
 - name: Why Clearline/Value Proposition  extracts
   href: why.md
-
