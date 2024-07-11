@@ -21,7 +21,9 @@
 
 * Most marketing actions can be completed in just three steps.  
   
-* We've helped hundreds of brands and small businesses achieve their marketing goals since 2011.
-___
+* We've helped hundreds of brands and small businesses achieve their marketing goals since 2011.  
+
+___  
+
 * **About ClearLine Vertical Customer Display:** The ClearLine Android tablet kiosk is ideal for various self-service, business, or education applications. This rugged, high-quality tablet with a built-in stand supports operations for any consumer-oriented business. Customer-Facing Screen (CFS): Use this device to promote your business and display smart QR codes to your customers. Camera Equipped: Allows customers to check into the Loyalty Program and scan coupon codes to validate discounts. For more information, click here.
 * **About ClearLine Horizontal Customer or Merchant Display:** The ClearLine Android tablet kiosk is perfect for various self-service, business, or education applications. This rugged, high-quality tablet with a built-in stand supports operations for any consumer-oriented business. Customer-Facing Screen (CFS): Promote your business and display smart QR codes to your customers. Merchant Screen: Launch QR codes to be scanned from the CFS screen, issue and validate coupons, and enroll customers into a Loyalty Program to issue points or stamps. No Camera: This device does not come equipped with a camera. For more information, click here.
