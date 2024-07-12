@@ -476,9 +476,11 @@ Explore how your business can benefit from the ClearLine in-store and POS market
 
 ### Print Flyers with QR Codes
 
-ClearLine’s Print Flyers with QR Codes feature lets you create flyers embedded with QR codes using your Customer Facing Screen (CFS) templates. These QR codes instantly connect customers to your digital content, such as special offers, promotions, or loyalty programs. Distribute these flyers in-store or through other marketing channels to drive traffic to your 
+ClearLine’s Print Flyers with QR Codes feature lets you create flyers embedded with QR codes using your Customer Facing Screen (CFS) templates. These QR codes instantly connect customers to your digital content, such as special offers, promotions, or loyalty programs. Distribute these flyers in-store or through other marketing channels to drive traffic to your *digital assets and boost customer engagement.  
+
 📌 **Note:**
-> stores (vs digital assets?) and boost customer engagement.
+> Did you mean stores (vs *digital assets?) 
+
 
 ### Smart Page
 
@@ -683,10 +685,12 @@ Set up an appointment booking system for customer self-scheduling or add a link 
 >  
 ClearLine Mobile has been a leader in mobile marketing for over 10 years, specializing in enterprise texting, mobile marketing campaigns, and omni-channel digital engagement through our Digital Marketing Center.  
 
-Our application 📌 **Note:**
-> suite? 
+Our application * allows sales and marketing teams to effortlessly create personalized messages, sync data, share content, and manage coupons and review requests—all without writing code.  
 
-allows sales and marketing teams to effortlessly create personalized messages, sync data, share content, and manage coupons and review requests—all without writing code.
+📌 **Note:**
+> *suite?  
+
+
 
 **We offer tools for:**
 
@@ -1049,11 +1053,11 @@ Is a cross-media platform for coupon distribution across all marketing channels.
 
 No, you do not need to pay extra for future updates and newly added features. All updates and new features are included in your subscription plan, ensuring you always have access to the latest tools and improvements at no additional cost.
 
-### What is the difference between Marketing Apps, Advanced Marketing Tools, and Outbound Marketing features?
+### What is the difference between Marketing Apps, Advanced Marketing Tools, and Outbound Marketing features?  
 
 > 📌 **Note:**
-> Is this correct? There was no info. Took from the other site I was editing
-> 
+> Is this correct? There was no info. Took from the other site I was editing  
+
 **Marketing Apps:**
 * **Description:** These are applications designed to help you manage and execute your marketing campaigns.
 
