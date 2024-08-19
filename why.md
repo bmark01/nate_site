@@ -1,5 +1,17 @@
 # Why Clearline/Value Proposition- extracts
 
+- [Why Clearline/Value Proposition- extracts](#why-clearlinevalue-proposition--extracts)
+    - [ClearLine Value Proposition (my best effort to synthesize all of the why statements):](#clearline-value-proposition-my-best-effort-to-synthesize-all-of-the-why-statements)
+  - [Edits](#edits)
+    - [Home:](#home)
+    - [Solutions/Enterprise \& Multi-location Companies:](#solutionsenterprise--multi-location-companies)
+    - [Solutions/Franchises:](#solutionsfranchises)
+    - [Solutions/Marketing Companies:](#solutionsmarketing-companies)
+    - [Solutions/Small Businesses:](#solutionssmall-businesses)
+    - [Point of Sale Systems:](#point-of-sale-systems)
+    - [Resources:](#resources)
+    - [QR Codes:](#qr-codes)
+    - [How it Works:](#how-it-works)
 
 ### ClearLine Value Proposition (my best effort to synthesize all of the why statements):
 * ClearLine offers comprehensive and efficient digital in-store and POS marketing solutions tailored for businesses of all sizes, from small businesses to multi-location enterprises and franchises. Key benefits include:
@@ -50,7 +62,7 @@
 * ClearLine’s marketing software works seamlessly with any POS system provider on the market.
 * Here’s how it works: When a triggering action occurs, such as a certain amount of money spent, ClearLine displays a predetermined piece of marketing material on the screen—featuring a QR code or a call-to-action message.
 * While a payment is being processed, customers can engage with the marketing activities you’ve set up at your point of sale.
-### ** Resources:
+### Resources:
 **Why ClearLine Apps?**
 * ClearLine Apps provides businesses with powerful tools to enhance their marketing and accounting workflows. Here’s why you should choose ClearLine Apps:
     * Engage Customers at Point of Sale: Offer coupons, request online reviews, or encourage referrals right at the point of sale.
