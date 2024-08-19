@@ -19,7 +19,7 @@ This document combines all "About Clearline" statements from various pages acros
 ___    
 
 
-💡 **Tip:**
+💡 **Note:**
 > These documents would be a great place to start to build a library of verbiage for your site(s) vs recreating verbiage and definitions for each page.  
 
 ___  
