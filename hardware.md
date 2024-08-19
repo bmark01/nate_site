@@ -1,18 +1,18 @@
 # Clearline Hardware
 
-  [Clearline Hardware](#clearline-hardware)
-        - [Specially Designed Retail Hardware](#specially-designed-retail-hardware)
-        - [ClearLine Devices](#clearline-devices)
-        - [Vertical Customer Display](#vertical-customer-display)
-        - [Countertop Horizontal Display](#countertop-horizontal-display)
-        - [Comprehensive Hardware Options](#comprehensive-hardware-options)
-        - [In-Store Marketing](#in-store-marketing)
-        - [Customer-Facing Screen](#customer-facing-screen)
-        - [Digital Kiosk](#digital-kiosk)
-        - [Advertising Display](#advertising-display)
-        - [POS Systems](#pos-systems)
-        - [ClearLine Vertical Customer Display:](#clearline-vertical-customer-display)
-        - [ClearLine Horizontal Customer or Merchant Display:](#clearline-horizontal-customer-or-merchant-display)
+  [Clearline Hardware](#clearline-hardware)  
+        - [Specially Designed Retail Hardware](#specially-designed-retail-hardware)  
+        - [ClearLine Devices](#clearline-devices)  
+        - [Vertical Customer Display](#vertical-customer-display)  
+        - [Countertop Horizontal Display](#countertop-horizontal-display)  
+        - [Comprehensive Hardware Options](#comprehensive-hardware-options)  
+        - [In-Store Marketing](#in-store-marketing)  
+        - [Customer-Facing Screen](#customer-facing-screen)  
+        - [Digital Kiosk](#digital-kiosk)  
+        - [Advertising Display](#advertising-display)  
+        - [POS Systems](#pos-systems)  
+        - [ClearLine Vertical Customer Display:](#clearline-vertical-customer-display)  
+        - [ClearLine Horizontal Customer or Merchant Display:](#clearline-horizontal-customer-or-merchant-display)  
 
 
 ##### Specially Designed Retail Hardware
