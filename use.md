@@ -1,6 +1,6 @@
 # Use Cases
 
-📌 **Note:**
+💡 **Note:**
 > These look more like solutions and/or product descriptions. Should we rename the sections on the site or build some use cases?  
 
 

@@ -1,4 +1,4 @@
-# About Clearline
+# About ClearLine
 
 #### About ClearLine Mobile 
 * ClearLine Mobile has been a leader in mobile marketing for over 10 years, specializing in enterprise texting, mobile marketing campaigns, and omni-channel digital engagement through our Digital Marketing Center.  
