@@ -1,5 +1,5 @@
 # Clearline Solutions
-
+___
   [Clearline Solutions](#clearline-solutions)  
       - [Solutions for Different Business Types](#solutions-for-different-business-types)  
         - [Enterprise \& Multi-location Companies](#enterprise--multi-location-companies)  

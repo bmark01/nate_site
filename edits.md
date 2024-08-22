@@ -291,8 +291,8 @@ Alternatively, use our Templates Library to save time and focus your creativity 
 
 ### Management Hierarchy
 📌 **Note:**
-> Is this section necessary? Seems like profiles are more of a back-end feature?  
->
+> Is this section necessary? Seems like profiles are more of a back end/technical feature?  
+
 Avoid the pitfalls of inexperienced employees having unrestricted access to all features and materials, leading to potential mishaps like accidentally deleting multiple years of customer data.  
 
 ClearLine offers various access options—full or limited, across all locations or just one. 
@@ -320,7 +320,7 @@ ClearLine, a leading provider of digital in-store and POS marketing solutions, u
 ### Why ClearLine Marketing?  
 
 📌 **Note:**
-> There are a few “why clearline” statements on the site already. Should we use only one vs recreating for each page?*
+> There are a few “why clearline” statements on the site already. Should we use only one document/statement vs recreating for each page?*
 
 ClearLine makes it easy to create and distribute digital in-store and POS marketing materials. This helps maintain brand consistency across all units by digitizing traditional in-store marketing.
 
