@@ -1,13 +1,16 @@
 # Clearline Site Edits
-
+___
 # Table of Contents
 1.  [Home](#home)
 2.  [Solutions](#solutions)
 3.  [Features](#features)
 4.  [Resources](#resources)
+5.  [FAQs](#faqs)
+6.  [Blog](#blog)
 
-
+___
 # Home
+___
 **Digital Marketing for Sales, Pickup, Delivery, and Service Locations**
 Boost Sales and Engagement with ClearLine
 ClearLine is the ultimate solution for retailers and service-oriented businesses. Our innovative platform enhances customer spending, captures valuable reviews, gathers customer data, and digitizes loyalty programs—all in one place.
@@ -243,10 +246,14 @@ The Tablet is NOT included!
 ## Features of Real-Time Marketing
 **ClearLine** streamlines your marketing process by eliminating extra steps and time delays, enhancing efficiency, and delivering immediate, measurable results. Engage with customers and see guaranteed, instant outcomes.
 
+___
 # Solutions
+___
 📌 **Note:**
 > I suggest taking the word “For” out of the dropdown selections  
-> 
+
+
+
 ## Solutions/Enterprise & Multi-location Companies
 For multi-location and enterprise companies, effective in-store and POS marketing can make or break a local campaign.
 
@@ -573,9 +580,9 @@ If your business already uses other services for some POS marketing needs, Clear
 
 Continue using the trusted products you rely on and add the additional benefits of the ClearLine ecosystem.
 
-
+___
 # Features
-
+___
 ## Retention Marketing
 
 ### Smart Page
@@ -674,8 +681,9 @@ Direct customers to where your app can be found and downloaded, eliminating the 
 
 Set up an appointment booking system for customer self-scheduling or add a link to your existing scheduling page.
 
+___
 # Resources
-
+___
 ## About
 
 ### About ClearLine Mobile
@@ -866,9 +874,9 @@ The ClearLine Android tablet kiosk is perfect for various self-service, business
 
 For more information, [click here](#).
 
-
-## FAQs
-
+___
+# FAQs
+___
 Join the Stacks community now to receive free updates and a host of exclusive freebies. Don’t miss out on these amazing offers!  
 
 For more information, contact Support.
@@ -1108,7 +1116,8 @@ Yes, you can upgrade or downgrade your plan at any time.
 
 Any changes to your plan will take effect immediately, and you will be billed or credited accordingly based on the new plan's pricing and features.
 
-
-## Blog
+___
+# Blog
+___
 📌 **Note:**
 > Does this need to be edited or since it's been published already, leave it?
