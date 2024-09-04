@@ -1,19 +1,20 @@
+<!-- omit in toc -->
 # Why Clearline/Value Proposition- extracts
+___
+- [ClearLine Value Proposition (my best effort to synthesize all of the why statements):](#clearline-value-proposition-my-best-effort-to-synthesize-all-of-the-why-statements)
+- [Edits](#edits)
+  - [Home:](#home)
+  - [Solutions/Enterprise \& Multi-location Companies:](#solutionsenterprise--multi-location-companies)
+  - [Solutions/Franchises:](#solutionsfranchises)
+  - [Solutions/Marketing Companies:](#solutionsmarketing-companies)
+  - [Solutions/Small Businesses:](#solutionssmall-businesses)
+  - [Point of Sale Systems:](#point-of-sale-systems)
+  - [Resources:](#resources)
+  - [QR Codes:](#qr-codes)
+  - [How it Works:](#how-it-works)
 
-- [Why Clearline/Value Proposition- extracts](#why-clearlinevalue-proposition--extracts)
-    - [ClearLine Value Proposition (my best effort to synthesize all of the why statements):](#clearline-value-proposition-my-best-effort-to-synthesize-all-of-the-why-statements)
-  - [Edits](#edits)
-    - [Home:](#home)
-    - [Solutions/Enterprise \& Multi-location Companies:](#solutionsenterprise--multi-location-companies)
-    - [Solutions/Franchises:](#solutionsfranchises)
-    - [Solutions/Marketing Companies:](#solutionsmarketing-companies)
-    - [Solutions/Small Businesses:](#solutionssmall-businesses)
-    - [Point of Sale Systems:](#point-of-sale-systems)
-    - [Resources:](#resources)
-    - [QR Codes:](#qr-codes)
-    - [How it Works:](#how-it-works)
 
-### ClearLine Value Proposition (my best effort to synthesize all of the why statements):
+## ClearLine Value Proposition (my best effort to synthesize all of the why statements):
 * ClearLine offers comprehensive and efficient digital in-store and POS marketing solutions tailored for businesses of all sizes, from small businesses to multi-location enterprises and franchises. Key benefits include:
   * **Enhanced Marketing Efforts:** ClearLine’s user-friendly platform allows for seamless creation and distribution of marketing materials, personalized promotions, and digital engagement tools.
   * **Increased Sales and Customer Loyalty:** By integrating digital coupons, loyalty programs, and targeted promotions, ClearLine helps businesses boost sales and retain customers.

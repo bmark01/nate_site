@@ -1,16 +1,17 @@
+<!-- omit in toc -->
 # Clearline Solutions
 ___
-  [Clearline Solutions](#clearline-solutions)  
-      - [Solutions for Different Business Types](#solutions-for-different-business-types)  
-        - [Enterprise \& Multi-location Companies](#enterprise--multi-location-companies)  
-        - [Franchises:](#franchises)  
-        - [Marketing Companies:](#marketing-companies)  
-        - [Small Businesses:](#small-businesses)  
-      - [Key Features](#key-features)  
-        - [Digital Engagement Tools:](#digital-engagement-tools)  
-        - [Point of Sale Systems:](#point-of-sale-systems)  
-        - [Retention Marketing:](#retention-marketing)  
-      - [Additional Offerings](#additional-offerings)  
+- [Solutions for Different Business Types](#solutions-for-different-business-types)
+  - [Enterprise \& Multi-location Companies](#enterprise--multi-location-companies)
+  - [Franchises:](#franchises)
+  - [Marketing Companies:](#marketing-companies)
+  - [Small Businesses:](#small-businesses)
+- [Key Features](#key-features)
+  - [Digital Engagement Tools:](#digital-engagement-tools)
+  - [Point of Sale Systems:](#point-of-sale-systems)
+  - [Retention Marketing:](#retention-marketing)
+- [Additional Offerings](#additional-offerings)
+
 
 
 #### Solutions for Different Business Types

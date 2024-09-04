@@ -32,6 +32,6 @@ ___
 ####  [Use Cases](./use.md)
 #### [Why Clearline/Value Proposition](./why.md)  
 
-____
+
 
 
