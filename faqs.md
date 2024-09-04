@@ -1,6 +1,7 @@
 <!-- omit in toc -->
 # FAQs
 ___
+
 - [What is unique about ClearLine’s Marketing Platform?](#what-is-unique-about-clearlines-marketing-platform)
 - [Can I try it before I buy it?](#can-i-try-it-before-i-buy-it)
 - [Do I need to sign a long-term contract, or can I cancel at any time?](#do-i-need-to-sign-a-long-term-contract-or-can-i-cancel-at-any-time)
